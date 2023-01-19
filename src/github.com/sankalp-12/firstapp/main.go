@@ -4,8 +4,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/sankalp-12/firstapp/handlers"
+	"src/github.com/firstapp/src/github.com/sankalp-12/firstapp/handlers"
 )
 
 func main() {
